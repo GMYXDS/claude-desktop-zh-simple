@@ -18468,5 +18468,19 @@
   "This capability is enabled but its required capability Claude Code is not.": "此功能已启用，但其所需功能 Claude Code 未启用。",
   "week": "周",
   "No instances heartbeating yet. Deploy the proxy with the registration secret.": "目前尚无实例发送心跳信号。请使用注册密钥部署代理。",
-  "No charge until you confirm on next step": "在您确认下一步之前，不会产生任何费用"
+  "No charge until you confirm on next step": "在您确认下一步之前，不会产生任何费用",
+  "Complex, detailed work": "复杂、细致的工作",
+  "You can use up to 50% of your plan limits on Fable 5 through July 7. After that, switch to usage credits to continue using it.": "在7月7日之前，您可在 Fable 5上使用不超过套餐限额50%的用量。此后，请切换至积分以继续使用该服务。",
+  "Always uses deep reasoning": "始终使用深度推理",
+  "Extra": "Extra",
+  "Included until June 22": "有效期至6月22日",
+  "Light, casual tasks": "轻松、简单的任务",
+  "For your toughest challenges": "应对最复杂的挑战",
+  "Balanced for everyday work": "平衡模式，适合日常工作",
+  "Uses usage credits": "消耗使用额度",
+  "Can think for more complex tasks": "能够处理更复杂的任务",
+  "The hardest problems. Takes longest.": "解决最高难度的任务。处理时间最长。",
+  "Fable is included in your plan limits until June 22. After that, switch to usage credits to continue using it.": "Fable 在您的计划限额内包含使用，有效期至6月22日。此后，请切换至使用积分以继续使用。",
+  "Included until July 7": "有效期至7月7日",
+  "Quick replies to simple questions": "快速回复简单问题"
 }
