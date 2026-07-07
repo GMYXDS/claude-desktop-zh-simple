@@ -20,6 +20,20 @@
 
 PS：每次 Claude Desktop 更新后，只需要运行一下本程序即可。随时适配最新版本。
 
+## 部分截图
+
+![image1](./images/image1.png)
+
+![image2](./images/image2.png)
+
+![image3](./images/image3.png)
+
+![image4](./images/image4.png)
+
+![image5](./images/image5.png)
+
+![image6](./images/image6.png)
+
 ## 文件
 
 - `translation_memory.json`: 翻译记忆库，格式为 `{"英文": "中文"}`。
