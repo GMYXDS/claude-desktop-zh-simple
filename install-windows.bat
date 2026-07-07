@@ -2,7 +2,7 @@
 setlocal EnableExtensions
 chcp 936 >nul 2>&1
 
-echo Claude Desktop 轻量汉化工具
+echo Claude Desktop 轻量汉化脚本
 echo GitHub: https://github.com/GMYXDS/claude-desktop-zh-simple
 echo Gitee : https://gitee.com/GMYXDS/claude-desktop-zh-simple
 echo 声明: 本工具永久免费，请勿从收费渠道购买。

@@ -1,5 +1,5 @@
 ﻿<#
-Claude Desktop 轻量汉化工具
+Claude Desktop 轻量汉化脚本
 作者/开源地址:
   GitHub: https://github.com/GMYXDS/claude-desktop-zh-simple
   Gitee : https://gitee.com/GMYXDS/claude-desktop-zh-simple
@@ -1341,7 +1341,7 @@ function Invoke-SelectedAction {
 function Show-Menu {
     while ($true) {
         Clear-Host
-        Write-Host "Claude Desktop 轻量汉化工具"
+        Write-Host "Claude Desktop 轻量汉化脚本"
         Write-Host ""
         Write-Host "项目目录: $ProjectRoot"
         Write-Host "记忆库: $TranslationMemoryPath"

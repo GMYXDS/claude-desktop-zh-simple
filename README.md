@@ -1,4 +1,4 @@
-# Claude Desktop 轻量汉化工具
+# Claude Desktop 轻量汉化脚本
 
 这是一个只替换 Claude Desktop 本地英文资源 JSON 的轻量脚本。直接将EN.json资源替换成CN.json资源，不对程序其他文件进行任何修改。
 
@@ -94,7 +94,7 @@ Claude Desktop zh-CN for Windows：https://github.com/chrichuang218/claude-deskt
 
 这是一个带GUI界面的自动化工具，给本项目带来了灵感。鸣谢！
 
-🙏 感谢 LINUX DO 社区的支持与讨论。
+🙏 感谢 [LINUX DO](https://linux.do) 社区的支持与讨论。
 
 ## 其他
 
