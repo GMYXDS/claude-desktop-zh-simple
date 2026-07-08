@@ -18579,7 +18579,7 @@
   "Rating": "评分",
   "Can't move this task yet. Moving would disconnect it from its projects. To run it in the cloud, create a new task instead.": "目前还无法移动此任务。移动该任务会导致其与所属项目脱离关联。若要在云端运行该任务，请创建一个新任务。",
   "Numbered lists aren't available yet": "编号列表目前尚不可用",
-  "Manual permissions": "手动权限",
+  "Manual permissions": "变更前确认",
   "Claude can use its Preview tools on these sites without a permission prompt. Remove a site to be asked again. Only Ask and Accept edits modes, and financial sites, prompt per site.": "Claude 可在这些网站上使用其预览工具，无需询问权限。移除网站后，下次访问将再次询问。仅“询问”和“接受编辑”模式，以及金融类网站，会针对每个网站进行询问。",
   "New preview tab": "新建预览标签页",
   "Couldn't verify this document against the file you attached. Re-attach the original file and try again.": "无法根据你上传的文件验证此文档。请重新上传原始文件后重试。",

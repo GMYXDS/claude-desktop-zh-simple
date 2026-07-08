@@ -294,14 +294,8 @@ function Get-JsonValue {
     }
 
     if ($Object -is [System.Collections.IDictionary]) {
-        if ($Object.ContainsKey($Key)) {
+        if (Test-DictionaryContainsKey -Dictionary $Object -Key $Key) {
             return [string]$Object[$Key]
-        }
-
-        foreach ($entry in $Object.GetEnumerator()) {
-            if ([string]$entry.Key -eq $Key) {
-                return [string]$entry.Value
-            }
         }
     }
 
