@@ -1,3 +1,9 @@
+# 2026年8月17日
+
+项目归档，最新版的Claude Desktop 这种替换方式失效了，暂未找到解决办法
+
+其次，Deepseek DSH 发布，不折腾这个了
+
 # Claude Desktop 轻量汉化脚本
 
 这是一个只替换 Claude Desktop 本地英文资源 JSON 的轻量脚本。直接将EN.json资源替换成CN.json资源，不对程序其他文件进行任何修改。
